@@ -13,16 +13,16 @@ profile:
     <p>The University of Tokyo</p>
     <p>4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -32,3 +32,11 @@ I am a doctoral student at The University of Tokyo. My research focuses on urban
 My work combines large-scale mobility data, geospatial analysis, computer vision, and multimodal artificial intelligence to understand how urban form and environmental conditions shape human behavior, accessibility, and well-being.
 
 I am interested in developing data-driven methods that support more accessible, sustainable, and human-centered cities.
+
+## Research Interests
+
+- Urban data mining
+- Human mobility and accessibility
+- Urban perception and computer vision
+- Sustainable transportation
+- Multimodal artificial intelligence

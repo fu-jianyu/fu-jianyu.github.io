@@ -81,7 +81,7 @@ cv:
     Experience:
       - company: "SOMAR at ICPSR, University of Michigan"
         position: "Sponsored Researcher"
-        location: "University of Michigan, USA"
+        location: "University of<br>Michigan, USA"
         start_date: "2025-12-15"
         end_date: "2026-10-15"
         summary: >-

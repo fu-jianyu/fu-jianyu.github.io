@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a doctoral student at The University of Tokyo. My research focuses on urban data mining, human mobility, urban perception, and sustainable transportation.
+I am a Ph.D student at The University of Tokyo. My research focuses on urban data mining, human mobility, urban perception, and sustainable transportation.
 
 My work combines large-scale mobility data, geospatial analysis, computer vision, and multimodal artificial intelligence to understand how urban form and environmental conditions shape human behavior, accessibility, and well-being.
 

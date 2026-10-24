@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "lint:prettier": "prettier . --check",
+    "lint:prettier": "prettier _config.yml _data/cv.yml _data/socials.yml _data/coauthors.yml _data/venues.yml \"_pages/**\" \"_posts/**\" \"_projects/**\" \"_news/**\" \".github/workflows/*.yml\" \"test/visual/academic*.js\" docs/SITE_MAINTENANCE.md README.md package.json --check",
     "lint:style-contract": "node test/style_contract.js",
-    "test:visual": "playwright test --config test/visual/playwright.config.js",
-    "test:visual:update": "playwright test --config test/visual/playwright.config.js --update-snapshots"
+    "test:visual": "playwright test --config test/visual/academic.config.js",
+    "test:visual:update": "playwright test --config test/visual/playwright.config.js --update-snapshots",
+    "test:theme-visual": "playwright test --config test/visual/playwright.config.js"
   },
   "devDependencies": {
     "@playwright/test": "^1.56.1",

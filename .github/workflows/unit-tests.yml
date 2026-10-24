@@ -74,6 +74,15 @@ jobs:
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
 
+      - name: Verify production site
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build
+          python3 bin/check_site.py _site
+
+      - name: Restore isolated theme test fixtures
+        run: |
+          cp -r docs/template-examples/_posts/. _posts/
+
       - name: Run comments integration test 🧪
         run: bash test/integration_comments.sh
 

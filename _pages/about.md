@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Doctoral Student at The University of Tokyo | Urban Data Mining, Human Mobility, and Sustainable Cities
 
@@ -22,12 +22,12 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D student at The University of Tokyo. My research focuses on urban data mining, human mobility, urban perception, and sustainable transportation.
+I am a Ph.D. student in **Socio-Cultural Environmental Studies** at the **Graduate School of Frontier Sciences, The University of Tokyo**, supervised by **Prof. Yoshihide Sekimoto**. My research focuses on urban data mining, human mobility, urban perception, and sustainable transportation.
 
 My work combines large-scale mobility data, geospatial analysis, computer vision, and multimodal artificial intelligence to understand how urban form and environmental conditions shape human behavior, accessibility, and well-being.
 
@@ -40,3 +40,7 @@ I am interested in developing data-driven methods that support more accessible, 
 - Urban perception and computer vision
 - Sustainable transportation
 - Multimodal artificial intelligence
+
+From **5 August to 10 October 2026**, I was a visiting Ph.D. researcher in the Department of Geography at **The University of Hong Kong**, hosted by **Prof. Bo Huang**. [Read about the visit]({% post_url 2026-10-10-hku-research-visit %}).
+
+[Publications]({{ '/publications/' | relative_url }}) · [Research projects]({{ '/projects/' | relative_url }}) · [Download CV (PDF)]({{ '/assets/pdf/Jianyu_Fu_CV.pdf' | relative_url }})

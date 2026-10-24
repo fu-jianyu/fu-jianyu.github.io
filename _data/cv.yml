@@ -1,278 +1,236 @@
 cv:
-  name: "Jianyu Fu (付舰于)"
-  label: "Ph.D. Student"
-  email: "fu-jianyu@g.ecc.u-tokyo.ac.jp"
-  location: "The University of Tokyo, Tokyo, Japan"
+  name: Jianyu Fu (付舰于)
+  label: Ph.D. Student
+  email: fu-jianyu@g.ecc.u-tokyo.ac.jp
+  location: The University of Tokyo, Tokyo, Japan
   image: ""
-  summary: >-
-    Ph.D. student in Socio-Cultural Environmental Studies at The University of Tokyo.
-    My research focuses on urban perception, human mobility, urban accessibility,
-    cityscape analytics, and AI-based urban modeling. I combine large-scale mobility
-    data, geospatial analysis, computer vision, and multimodal artificial intelligence
-    to support accessible, sustainable, and human-centered cities.
-    Additional email: fu_jianyu@csis.u-tokyo.ac.jp.
-
+  summary: "Ph.D. student in Socio-Cultural Environmental Studies at The University of Tokyo. My research focuses
+    on urban perception, human mobility, urban accessibility, cityscape analytics, and AI-based urban modeling.
+    I combine large-scale mobility data, geospatial analysis, computer vision, and multimodal artificial intelligence
+    to support accessible, sustainable, and human-centered cities. Additional email: fu_jianyu@csis.u-tokyo.ac.jp."
   social_networks:
     - network: GitHub
-      username: "fu-jianyu"
+      username: fu-jianyu
     - network: LinkedIn
-      username: "REPLACE_WITH_LINKEDIN_USERNAME"
-
+      username: jianyu-fu-24507838b
   address:
-    street: "Room Ce507, Institute of Industrial Science, 4-6-1 Komaba"
-    city: "Meguro-ku"
-    region: "Tokyo"
-    postalCode: "153-8505"
-    countryCode: "JP"
-
+    street: Room Ce507, Institute of Industrial Science, 4-6-1 Komaba
+    city: Meguro-ku
+    region: Tokyo
+    postalCode: 153-8505
+    countryCode: JP
   sections:
     Education:
-      - institution: "The University of Tokyo"
-        location: "Tokyo, Japan"
-        area: "Socio-Cultural Environmental Studies"
-        studyType: "Ph.D."
-        start_date: "2025-04"
-        end_date: "present"
+      - institution: The University of Tokyo
+        location: Tokyo, Japan
+        area: Socio-Cultural Environmental Studies
+        studyType: Ph.D.
+        start_date: 2025-04
+        end_date: present
         score: ""
         courses: ""
         highlights:
-          - "Graduate School of Frontier Sciences."
+          - Graduate School of Frontier Sciences.
           - "Research areas: urban perception, mobility data analysis, urban accessibility, and AI-based cityscape modeling."
           - "Supervisor: Prof. Yoshihide Sekimoto."
-          - "Member of the JST SPRING GX program (Grant No. JPMJSP2108)."
-
-      - institution: "Southeast University"
-        location: "Nanjing, China"
-        area: "Architecture"
-        studyType: "Master of Architecture"
-        start_date: "2021-09"
-        end_date: "2024-06"
-        score: "90.1 / 100 (Rank 1 / 36)"
+          - Member of the JST SPRING GX program (Grant No. JPMJSP2108).
+      - institution: Southeast University
+        location: Nanjing, China
+        area: Architecture
+        studyType: Master of Architecture
+        start_date: 2021-09
+        end_date: 2024-06
+        score: 90.1 / 100 (Rank 1 / 36)
         courses: ""
         highlights:
           - "Research areas: urban architecture, urban planning and design, urban analytics, and big data analysis."
-
-      - institution: "Northeastern University"
-        location: "Shenyang, China"
-        area: "Architecture"
-        studyType: "Bachelor of Architecture"
-        start_date: "2015-09"
-        end_date: "2020-06"
+      - institution: Northeastern University
+        location: Shenyang, China
+        area: Architecture
+        studyType: Bachelor of Architecture
+        start_date: 2015-09
+        end_date: 2020-06
         score: ""
         courses: ""
         highlights:
-          - "Undergraduate thesis focused on sustainable architectural design and human-environment interaction."
-
+          - Undergraduate thesis focused on sustainable architectural design and human-environment interaction.
     Research Visits:
-      - company: "Department of Geography, The University of Hong Kong"
-        position: "Visiting Researcher"
-        location: "Hong Kong"
-        start_date: "2026-08"
-        end_date: "2026-10"
-        summary: >-
-          Conduct collaborative research with the team of Prof. Bo Huang,
-          Chair Professor, on urban accessibility, human mobility, and
-          data-driven urban analysis.
+      - company: Department of Geography, The University of Hong Kong
+        position: Visiting Ph.D. Researcher
+        location: Hong Kong
+        start_date: "2026-08-05"
+        end_date: "2026-10-10"
+        summary: Conducted collaborative research with Prof. Bo Huang on urban mobility and human behavior, focusing
+          on individual travel-time burdens in Greater Paris.
         highlights:
-          - "Collaborate with Prof. Bo Huang's research team."
-          - "Develop behavior-informed approaches to urban accessibility and mobility analysis."
-          - "Supported through the JST SPRING GX overseas research program."
-
+          - Analyzed sanitized GNSS-based mobility data and urban spatial information.
+          - "Research manuscript: When mobility continues at a cost: Individual travel-time burdens in Greater Paris
+            (under review)."
     Experience:
-      - company: "SOMAR at ICPSR, University of Michigan"
-        position: "Sponsored Researcher"
-        location: "University of<br>Michigan, USA"
+      - company: SOMAR at ICPSR, University of Michigan
+        position: Sponsored Researcher
+        location: Michigan, USA
         start_date: "2025-12-15"
         end_date: "2026-10-15"
-        summary: >-
-          Conduct research using approved access to Meta Content Library API
-          data in the SOMAR Virtual Data Enclave.
+        summary: Conducted research using approved access to Meta Content Library API data in the SOMAR Virtual Data
+          Enclave.
         highlights:
-          - "Appointed as a sponsored researcher with access to University of Michigan computing services."
-          - "Granted approved access under SOMARAPPLY-768."
-          - "Analyze publicly available Facebook and Instagram data in a secure computing environment."
-          - "Study urban perception and collective emotion while following strict privacy and data-governance protocols."
-
-      - company: "Sekimoto Laboratory, Center for Spatial Information Science, The University of Tokyo"
-        position: "Research Assistant"
-        location: "Tokyo, Japan"
-        start_date: "2025-04"
-        end_date: "present"
-        summary: >-
-          Conduct multimodal urban-data research on mobility behavior,
-          urban perception, and sustainable cities.
+          - Appointed as a sponsored researcher with access to University of Michigan computing services.
+          - Granted approved access under SOMARAPPLY-768.
+          - Analyze publicly available Facebook and Instagram data in a secure computing environment.
+          - Study urban perception and collective emotion while following strict privacy and data-governance protocols.
+      - company: Sekimoto Laboratory, Center for Spatial Information Science, The University of Tokyo
+        position: Research Assistant
+        location: Tokyo, Japan
+        start_date: 2025-04
+        end_date: present
+        summary: Conduct multimodal urban-data research on mobility behavior, urban perception, and sustainable cities.
         highlights:
-          - "Process and analyze large-scale GPS, social media, image, and geospatial datasets."
-          - "Apply machine learning, deep learning, GIS, and multimodal AI methods."
-          - "Handle research data under strict privacy and security protocols."
-          - "Participate in interdisciplinary SPRING GX research on sustainable and human-centered cities."
-
+          - Process and analyze large-scale GPS, social media, image, and geospatial datasets.
+          - Apply machine learning, deep learning, GIS, and multimodal AI methods.
+          - Handle research data under strict privacy and security protocols.
+          - Participate in interdisciplinary SPRING GX research on sustainable and human-centered cities.
     Awards:
-      - title: "Excellence Award (Best Presentation)"
+      - title: Excellence Award (Best Presentation)
         authors:
-          - "Jianyu Fu"
-          - "Zhihua Zhong"
-          - "Xukang Wang"
-          - "Jue Ma"
-          - "Yoshihide Sekimoto"
+          - Jianyu Fu
+          - Zhihua Zhong
+          - Xukang Wang
+          - Jue Ma
+          - Yoshihide Sekimoto
         date: "2025-12-09"
         awarder: "IEEE BigData 2025 Special Session: Data Free Flow with Trust"
-        summary: >-
-          Awarded in recognition of the Best Presentation at the IEEE BigData
-          2025 Special Session “Data Free Flow with Trust” in Macau, China.
-
-      - title: "JST SPRING GX Fellowship"
+        summary: Awarded in recognition of the Best Presentation at the IEEE BigData 2025 Special Session “Data Free
+          Flow with Trust” in Macau, China.
+      - title: JST SPRING GX Fellowship
         authors:
-          - "Japan Science and Technology Agency"
-          - "The University of Tokyo"
-        date: "2025-04"
-        awarder: "JST SPRING GX"
-        summary: "Doctoral fellowship under Grant No. JPMJSP2108."
-
-      - title: "First-Class Academic Scholarship"
+          - Japan Science and Technology Agency
+          - The University of Tokyo
+        date: 2025-04
+        awarder: JST SPRING GX
+        summary: Doctoral fellowship under Grant No. JPMJSP2108.
+      - title: First-Class Academic Scholarship
         authors:
-          - "Southeast University"
-        awarder: "Southeast University"
-        summary: "Awarded during the Master of Architecture program."
-
-      - title: "Outstanding Student Award"
+          - Southeast University
+        awarder: Southeast University
+        summary: Awarded during the Master of Architecture program.
+      - title: Outstanding Student Award
         authors:
-          - "Southeast University"
-        awarder: "Southeast University"
-        summary: "Awarded during the Master of Architecture program."
-
-      - title: "Academic Excellence Award"
+          - Southeast University
+        awarder: Southeast University
+        summary: Awarded during the Master of Architecture program.
+      - title: Academic Excellence Award
         authors:
-          - "Southeast University"
-        awarder: "Southeast University"
-        summary: "Recognized for outstanding academic performance during the Master of Architecture program."
-
-      - title: "Silver Award, China Human Settlements Design Academic Year Award"
+          - Southeast University
+        awarder: Southeast University
+        summary: Recognized for outstanding academic performance during the Master of Architecture program.
+      - title: Silver Award, China Human Settlements Design Academic Year Award
         authors:
-          - "China Human Settlements Design Academic Year Award"
-        awarder: "China Human Settlements Design Academic Year Award"
-        summary: "Received during the Master of Architecture program."
-
+          - China Human Settlements Design Academic Year Award
+        awarder: China Human Settlements Design Academic Year Award
+        summary: Received during the Master of Architecture program.
     Publications:
-      - title: "Comprehensive Evaluation Method of Rooftop Views in High-Density Urban Areas: A Case Study of Guangzhou’s Historic District"
+      - title: "Evaluating urban street views through collective emotional perception from multimodal social media
+          cityscape posts: An R-ECoT-based interpretable framework"
         authors:
-          - "Yu Zhang"
-          - "Jianyu Fu"
-          - "Yuan Gao"
-          - "Jianguo Wang"
-        publisher: "Urban Design International, Springer Nature"
-        releaseDate: "2026-02"
-        url: "https://doi.org/10.1057/s41289-025-00287-2"
-        summary: >-
-          Develops a comprehensive method for evaluating rooftop views in
-          high-density historic urban areas.
-
-      - title: "Linking Urban Morphology and Human Activity Patterns: An Empirical Study Based on Mobility Survey Data from the Paris Region"
+          - Jianyu Fu
+          - X. Wang
+          - J. Ma
+          - C. Zhao
+          - Y. Ogawa
+          - Y. Sekimoto
+        publisher: Landscape and Urban Planning
+        summary: Accepted 23 October 2026; awaiting online publication. JCR Q1 · IF 11.5. First and corresponding
+          author.
+      - title: "Comprehensive Evaluation Method of Rooftop Views in High-Density Urban Areas: A Case Study of Guangzhou’s
+          Historic District"
         authors:
-          - "Jianyu Fu"
-          - "Zhihua Zhong"
-          - "Xukang Wang"
-          - "Jue Ma"
-          - "Yoshihide Sekimoto"
-        publisher: "2025 IEEE International Conference on Big Data (BigData), pp. 3685–3694"
+          - Yu Zhang
+          - Jianyu Fu
+          - Yuan Gao
+          - Jianguo Wang
+        publisher: Urban Design International, Springer Nature
+        releaseDate: "2026-02-02"
+        url: https://doi.org/10.1057/s41289-025-00287-2
+        summary: Develops a comprehensive method for evaluating rooftop views in high-density historic urban areas.
+      - title: "Linking Urban Morphology and Human Activity Patterns: An Empirical Study Based on Mobility Survey
+          Data from the Paris Region"
+        authors:
+          - Jianyu Fu
+          - Zhihua Zhong
+          - Xukang Wang
+          - Jue Ma
+          - Yoshihide Sekimoto
+        publisher: 2025 IEEE International Conference on Big Data (BigData), pp. 3685–3694
         releaseDate: "2025"
-        url: "https://doi.org/10.1109/BigData66926.2025.11402166"
-        summary: "Oral presentation at IEEE BigData 2025."
-
-      - title: "Urban Real Accessibility Evaluation Based on GPS Data: Integration of Multiple Accessibility Indicators and Deep Learning"
+        url: https://doi.org/10.1109/BigData66926.2025.11402166
+        summary: Oral presentation at IEEE BigData 2025.
+      - title: "Urban Real Accessibility Evaluation Based on GPS Data: Integration of Multiple Accessibility Indicators
+          and Deep Learning"
         authors:
-          - "Jianyu Fu"
-          - "Jue Ma"
-          - "Yoshihide Sekimoto"
-        publisher: "NetMob 2025, MIT and Inria, France"
+          - Jianyu Fu
+          - Jue Ma
+          - Yoshihide Sekimoto
+        publisher: NetMob 2025, MIT and Inria, France
         releaseDate: "2025"
-        summary: "Poster accepted for presentation at NetMob 2025."
-
-      - title: "Research on Sustainable Renewal of Historic Blocks Based on Urban Catalyst Theory"
+        summary: Poster accepted for presentation at NetMob 2025.
+      - title: Research on Sustainable Renewal of Historic Blocks Based on Urban Catalyst Theory
         authors:
-          - "Feiyu Zhao"
-          - "Xiaodong Xu"
-          - "Wei Dong"
-          - "Jianyu Fu"
-          - "Xiaoqi Bai"
-          - "Jinxiu Wu"
-        publisher: "Applied and Computational Engineering, 63(1), 195–205"
-        releaseDate: "2024-07"
-        url: "https://doi.org/10.54254/2755-2721/63/20240974"
-        summary: "Examines sustainable renewal strategies for historic blocks through urban catalyst theory."
-
-      - title: "Research on Urban Public Space Quality Evaluation Model Based on Scene Photo’s Deep Learning"
+          - Feiyu Zhao
+          - Xiaodong Xu
+          - Wei Dong
+          - Jianyu Fu
+          - Xiaoqi Bai
+          - Jinxiu Wu
+        publisher: Applied and Computational Engineering, 63(1), 195–205
+        releaseDate: 2024-07
+        url: https://doi.org/10.54254/2755-2721/63/20240974
+        summary: Examines sustainable renewal strategies for historic blocks through urban catalyst theory.
+      - title: Research on Urban Public Space Quality Evaluation Model Based on Scene Photo’s Deep Learning
         authors:
-          - "Jianyu Fu"
-        publisher: "2022 Computational Design Symposium and Annual Conference of the Computational Design Academic Committee of the Architectural Society of China"
-        releaseDate: "2022-11"
-        summary: "Conference paper on deep-learning-based evaluation of urban public-space quality."
-
-      - title: "Spatial Cognitive Preference of Traditional Village Nodes from the Perspective of Eye-Tracking Technology"
+          - Jianyu Fu
+        publisher: 2022 Computational Design Symposium and Annual Conference of the Computational Design Academic
+          Committee of the Architectural Society of China
+        releaseDate: 2022-11
+        summary: Conference paper on deep-learning-based evaluation of urban public-space quality.
+      - title: Spatial Cognitive Preference of Traditional Village Nodes from the Perspective of Eye-Tracking Technology
         authors:
-          - "Jianyu Fu"
-        publisher: "2022 Computational Design Symposium and Annual Conference of the Computational Design Academic Committee of the Architectural Society of China"
-        releaseDate: "2022-11"
-        summary: "Conference paper using eye-tracking technology to study spatial cognitive preferences in traditional villages."
-
+          - Jianyu Fu
+        publisher: 2022 Computational Design Symposium and Annual Conference of the Computational Design Academic
+          Committee of the Architectural Society of China
+        releaseDate: 2022-11
+        summary: Conference paper using eye-tracking technology to study spatial cognitive preferences in traditional
+          villages.
     Skills:
-      - name: "Programming and Data Analysis"
-        level: "Advanced"
-        icon: "fa-solid fa-code"
-        keywords: "Python, Pandas, GeoPandas, NumPy, data processing, statistical analysis"
-
-      - name: "Machine Learning and Deep Learning"
-        level: "Advanced"
-        icon: "fa-solid fa-brain"
-        keywords: "PyTorch, TensorFlow, scikit-learn, Keras, computer vision, multimodal AI"
-
-      - name: "Spatial Analysis and GIS"
-        level: "Advanced"
-        icon: "fa-solid fa-map"
-        keywords: "QGIS, ArcGIS, Kepler.gl, PLATEAU 3D City Model, OpenStreetMap"
-
-      - name: "Visualization"
-        level: "Advanced"
-        icon: "fa-solid fa-chart-line"
-        keywords: "Matplotlib, Seaborn, Plotly, Power BI"
-
-      - name: "Research Data and APIs"
-        level: "Advanced"
-        icon: "fa-solid fa-database"
-        keywords: "GPS data, social media APIs, image datasets, privacy-aware data processing"
-
+      - name: Programming and Data Analysis
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: Python, Pandas, GeoPandas, NumPy, data processing, statistical analysis
+      - name: Machine Learning and Deep Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: PyTorch, TensorFlow, scikit-learn, Keras, computer vision, multimodal AI
+      - name: Spatial Analysis and GIS
+        level: Advanced
+        icon: fa-solid fa-map
+        keywords: QGIS, ArcGIS, Kepler.gl, PLATEAU 3D City Model, OpenStreetMap
+      - name: Visualization
+        level: Advanced
+        icon: fa-solid fa-chart-line
+        keywords: Matplotlib, Seaborn, Plotly, Power BI
+      - name: Research Data and APIs
+        level: Advanced
+        icon: fa-solid fa-database
+        keywords: GPS data, social media APIs, image datasets, privacy-aware data processing
     Languages:
-      - name: "Chinese"
-        summary: "Native speaker"
-
-      - name: "English"
-        summary: "Professional working proficiency"
-
+      - name: Chinese
+        summary: Native speaker
+      - name: English
+        summary: Professional working proficiency
     Interests:
-      - name: "Urban Data Science"
-        icon: "fa-solid fa-city"
-        keywords: "Urban perception, human mobility, urban accessibility, cityscape analytics, sustainable transportation"
-
-      - name: "Artificial Intelligence for Cities"
-        icon: "fa-solid fa-tag"
-        keywords: "Computer vision, multimodal AI, deep learning, environmental cognition, human-centered cities"
-
-    Projects:
-      - name: "Selected Research Projects"
-        summary: "Detailed descriptions of selected research projects will be added."
-        highlights:
-          - "Urban accessibility and human mobility"
-          - "Urban perception and emotion modeling"
-          - "AI-based cityscape analytics"
-        start_date: "2025"
-        end_date: "present"
-
-    Academic Service:
-      - company: "Academic Service"
-        position: "To be updated"
-        location: ""
-        start_date: ""
-        end_date: ""
-        summary: "Reviewing, teaching, conference, and laboratory service activities will be added."
-        highlights:
-          - "Details to be updated."
+      - name: Urban Data Science
+        icon: fa-solid fa-city
+        keywords: Urban perception, human mobility, urban accessibility, cityscape analytics, sustainable transportation
+      - name: Artificial Intelligence for Cities
+        icon: fa-solid fa-tag
+        keywords: Computer vision, multimodal AI, deep learning, environmental cognition, human-centered cities

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research on urban perception, human mobility, and the built environment.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [research]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

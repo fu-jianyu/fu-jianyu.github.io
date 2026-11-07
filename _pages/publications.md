@@ -15,13 +15,19 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zqWZAygAA
 {% bibliography %}
 </div>
 
-{% assign presentations = site.posts | where: "presentation_status", "accepted" %}
+{% assign presentations = site.posts | where_exp: "talk", "talk.presentation_status" | sort: "date" | reverse %}
 {% if presentations.size > 0 %}
 
-## Accepted for presentation
+<span id="accepted-for-presentation"></span>
 
+## Conference presentations
+
+<ul>
 {% for talk in presentations %}
-
-- [{{ talk.paper_title }}]({{ talk.url | relative_url }}) — {{ talk.description }} ({{ talk.date | date: "%-d %B %Y" }})
-  {% endfor %}
-  {% endif %}
+  <li>
+    <a href="{{ talk.url | relative_url }}">{{ talk.paper_title | escape }}</a><br>
+    <strong>{{ talk.presentation_status | escape }}</strong> · {{ talk.presentation_event | escape }}
+  </li>
+{% endfor %}
+</ul>
+{% endif %}

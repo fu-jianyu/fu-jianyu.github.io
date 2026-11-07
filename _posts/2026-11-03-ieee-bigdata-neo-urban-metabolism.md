@@ -6,7 +6,8 @@ description: Paper SP06202 was accepted for presentation at the Special Session 
 thumbnail: /assets/img/research-updates/ieee-cross-view.jpg
 og_image: https://fu-jianyu.github.io/assets/img/research-updates/ieee-cross-view.jpg
 related_posts: false
-presentation_status: accepted
+presentation_status: Accepted for presentation
+presentation_event: IEEE BigData 2026 (CCF-C), Special Session on Neo Urban Metabolism · Accepted 3 November 2026
 paper_title: "Beyond Top-Down Urban Sensing: Cross-View Explanatory Asymmetry in Image-Estimated Streetscape Perception in Tokyo"
 ---
 

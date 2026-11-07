@@ -2,7 +2,7 @@
 layout: post
 title: Paper accepted in Landscape and Urban Planning
 date: 2026-10-23 12:00:00 +0900
-description: Our R-ECoT paper was accepted on 23 October 2026. JCR Q1 · Impact Factor 11.5. Online publication is forthcoming.
+description: Our R-ECoT paper was accepted on 23 October 2026. JCR Q1 · Impact Factor 11.5. Published online on 3 November 2026.
 thumbnail: /assets/img/publication_preview/r-ecot-graphical-abstract.png
 og_image: https://fu-jianyu.github.io/assets/img/publication_preview/r-ecot-graphical-abstract.png
 related_posts: false
@@ -16,4 +16,4 @@ Authors: **Jianyu Fu**, X. Wang, J. Ma, C. Zhao, Y. Ogawa, and Y. Sekimoto. I am
 
 {% include figure.liquid path="assets/img/publication_preview/r-ecot-graphical-abstract.png" alt="Graphical abstract of the R-ECoT framework linking multimodal social media, collective emotional appraisal, and street-level evidence" class="img-fluid rounded" loading="eager" zoomable=true caption="Graphical abstract of the accepted paper." %}
 
-The article is in production and **has not yet been published online**. I will share a fuller research introduction and the publication link once it is online.
+**Update, 3 November 2026:** The article is now online. [Read the research introduction]({% post_url 2026-11-03-lup-streetscape-emotions %}) or [open the published paper](https://doi.org/10.1016/j.landurbplan.2026.105822).

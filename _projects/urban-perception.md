@@ -7,6 +7,6 @@ category: research
 img: assets/img/publication_preview/r-ecot-graphical-abstract.png
 ---
 
-My research investigates urban perception through cityscape images and social media interactions. Our paper on the R-ECoT interpretable framework was accepted by **Landscape and Urban Planning** on **23 October 2026** (**JCR Q1 · IF 11.5**). I am the first and corresponding author.
+I study how people respond to urban scenes through photographs and social media comments. In **Landscape and Urban Planning (JCR Q1 · IF 11.5)**, my co-authors and I used R-ECoT to link eight predicted emotions to visible regions of street-view images. I am the first and corresponding author.
 
-[Read the brief acceptance announcement]({% post_url 2026-10-23-lup-paper-accepted %}). A fuller introduction will follow online publication.
+[Read the research introduction]({% post_url 2026-11-03-lup-streetscape-emotions %}) · [Published article](https://doi.org/10.1016/j.landurbplan.2026.105822) (online 3 November 2026).

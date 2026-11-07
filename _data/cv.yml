@@ -134,14 +134,18 @@ cv:
           cityscape posts: An R-ECoT-based interpretable framework"
         authors:
           - Jianyu Fu
-          - X. Wang
-          - J. Ma
-          - C. Zhao
-          - Y. Ogawa
-          - Y. Sekimoto
-        publisher: Landscape and Urban Planning
-        summary: Accepted 23 October 2026; awaiting online publication. JCR Q1 · IF 11.5. First and corresponding
-          author.
+          - Xukang Wang
+          - Jue Ma
+          - Chenbo Zhao
+          - Yoshiki Ogawa
+          - Yoshihide Sekimoto
+        publisher: Landscape and Urban Planning, 278, 105822
+        releaseDate: "2026-11-03"
+        url: https://doi.org/10.1016/j.landurbplan.2026.105822
+        summary: Published online 3 November 2026 (February 2027 issue). JCR Q1 · IF 11.5. First and corresponding author.
+      - title: "Beyond Top-Down Urban Sensing: Cross-View Explanatory Asymmetry in Image-Estimated Streetscape Perception in Tokyo"
+        publisher: IEEE BigData 2026, Special Session on Neo Urban Metabolism
+        summary: Accepted for presentation on 3 November 2026 (SP06202). Conference ranking CCF-C.
       - title: "Comprehensive Evaluation Method of Rooftop Views in High-Density Urban Areas: A Case Study of Guangzhou’s
           Historic District"
         authors:

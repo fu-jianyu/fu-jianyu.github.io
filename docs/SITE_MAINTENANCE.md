@@ -18,17 +18,11 @@ The site uses Jekyll with the existing al-folio v1 plugin architecture. The core
 
 The Word document is the source for the downloadable PDF. After changing it, export to PDF, inspect every page, and replace the file at the same path. Update `_data/cv.yml` separately when dates or content change. The optional RenderCV workflow is manual and only produces an artifact; it does not commit over the Word-derived CV.
 
-## Accepted paper and journal metrics
+## November 2026 publication updates
 
-The R-ECoT paper is accepted on 23 October 2026, awaiting online publication. The acceptance date and corresponding-author status come from the supplied publisher screenshot; author order and initials come from the CV. Do not invent a DOI, volume, issue, pages, or online date.
+The [publisher record](https://doi.org/10.1016/j.landurbplan.2026.105822) lists the R-ECoT paper in volume 278 (February 2027), article 105822. Cite the issue year in BibTeX; the news date is the online publication date, 3 November 2026. Keep the October acceptance announcement as a historical record pointing to the publication. The journal metrics (JCR Q1, IF 11.5) are supplied by the author; do not infer a metrics year.
 
-JCR Q1 and Impact Factor 11.5 are author-supplied journal metrics. No JCR year was supplied, so no year is asserted. JCR Q1 is not the Chinese Academy of Sciences partition system; do not relabel it CAS Q1 or invent an official JCR “Top” designation. Reconfirm the metrics when the article appears online.
-
-When the article is online:
-
-1. Add the verified DOI, URL, publication date, and bibliographic details to `fu2026recot` in `_bibliography/papers.bib`.
-2. Update the online CV and the Word/PDF CV.
-3. Write a new post introducing the research and add a short `_news` entry. Keep the acceptance post as a dated record, with a link to the new introduction.
+The IEEE BigData item records acceptance for **presentation** at the Neo Urban Metabolism special session, not proceedings publication. The author supplied paper ID SP06202 and the title; no full author list or DOI has been supplied. Keep it under accepted presentations until a published citation is available. The two posts and matching news items share the same calendar date; their editorial times put the LUP publication first in each list.
 
 ## Research visit
 

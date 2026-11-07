@@ -52,12 +52,12 @@ test("publication filtering finds the published paper", async ({ page }) => {
 test("November publication leads the news and links to the published article", async ({ page }) => {
   const doi = "https://doi.org/10.1016/j.landurbplan.2026.105822";
   const post = "/blog/2026/lup-streetscape-emotions/";
-  await page.goto("/");
+  await page.goto("/", { waitUntil: "domcontentloaded" });
   const news = page.locator(".news tr").first();
   await expect(news.getByRole("link", { name: "Research highlights and figures" })).toHaveAttribute("href", post);
   await expect(news.getByRole("link", { name: "10.1016/j.landurbplan.2026.105822" })).toHaveAttribute("href", doi);
-  await page.goto("/blog/");
+  await page.goto("/blog/", { waitUntil: "domcontentloaded" });
   await expect(page.locator(".update-item h2 a").first()).toHaveAttribute("href", post);
-  await page.goto(post);
+  await page.goto(post, { waitUntil: "domcontentloaded" });
   await expect(page.getByRole("link", { name: "10.1016/j.landurbplan.2026.105822", exact: true })).toHaveAttribute("href", doi);
 });

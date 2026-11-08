@@ -55,11 +55,26 @@ cv:
         highlights:
           - Undergraduate thesis focused on sustainable architectural design and human-environment interaction.
     Research Visits:
+      # The CV plugin renders custom bullets inside its standard list-group item.
       - bullet: |
-          **[Visiting Ph.D. Researcher](/blog/2026/hku-research-visit/)** · Department of Geography, The University of Hong Kong<br>
-          5 August – 10 October 2026 · Host: Prof. Bo Huang<br>
-          I studied individual travel-time burdens in Greater Paris using sanitized GNSS mobility data and urban spatial information.
-          The resulting manuscript, *When mobility continues at a cost: Individual travel-time burdens in Greater Paris*, was under review at the end of the visit.
+          <div class="row">
+            <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+              <table class="table-cv" aria-label="Visit year and location"><tbody>
+                <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2026</span></td></tr>
+                <tr><td><span class="text-nowrap" style="font-size: 0.7rem"><i class="fa-solid fa-location-dot iconlocation" aria-hidden="true"></i> Hong Kong</span></td></tr>
+              </tbody></table>
+            </div>
+            <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
+              <h6 class="title font-weight-bold ml-1 ml-md-4">Visiting Ph.D. Researcher</h6>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">Department of Geography, The University of Hong Kong</h6>
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><em>5 August – 10 October 2026 · Host: Prof. Bo Huang</em></h6>
+              <ul class="items">
+                <li><span class="item">Studied individual travel-time burdens in Greater Paris using sanitized GNSS mobility data and urban spatial information.</span></li>
+                <li><span class="item">The resulting manuscript, <em>When mobility continues at a cost: Individual travel-time burdens in Greater Paris</em>, was under review at the end of the visit.</span></li>
+                <li><a href="/blog/2026/hku-research-visit/">Visit details and photos</a></li>
+              </ul>
+            </div>
+          </div>
     Experience:
       - company: SOMAR at ICPSR, University of Michigan
         position: Sponsored Researcher

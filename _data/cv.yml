@@ -55,17 +55,11 @@ cv:
         highlights:
           - Undergraduate thesis focused on sustainable architectural design and human-environment interaction.
     Research Visits:
-      - company: Department of Geography, The University of Hong Kong
-        position: Visiting Ph.D. Researcher
-        location: Hong Kong
-        start_date: "2026-08-05"
-        end_date: "2026-10-10"
-        summary: Conducted collaborative research with Prof. Bo Huang on urban mobility and human behavior, focusing
-          on individual travel-time burdens in Greater Paris.
-        highlights:
-          - Analyzed sanitized GNSS-based mobility data and urban spatial information.
-          - "Research manuscript: When mobility continues at a cost: Individual travel-time burdens in Greater Paris
-            (under review)."
+      - bullet: |
+          **[Visiting Ph.D. Researcher](/blog/2026/hku-research-visit/)** · Department of Geography, The University of Hong Kong<br>
+          5 August – 10 October 2026 · Host: Prof. Bo Huang<br>
+          I studied individual travel-time burdens in Greater Paris using sanitized GNSS mobility data and urban spatial information.
+          The resulting manuscript, *When mobility continues at a cost: Individual travel-time burdens in Greater Paris*, was under review at the end of the visit.
     Experience:
       - company: SOMAR at ICPSR, University of Michigan
         position: Sponsored Researcher

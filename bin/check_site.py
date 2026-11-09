@@ -39,7 +39,13 @@ for name in required:
     if not (root / name).is_file(): errors.append(f'Missing required output: {name}')
 for name in ['docs', 'test', 'teaching', 'books', 'repositories', 'assets/json/resume.json']:
     if (root / name).exists(): errors.append(f'Template/internal output leaked: {name}')
+google_verification = root / 'google7a7be778f6961da5.html'
+if not google_verification.is_file() or google_verification.read_bytes() != (
+    f'google-site-verification: {google_verification.name}'.encode('ascii')
+):
+    errors.append('Missing or incorrect Google ownership verification file')
 for file in root.rglob('*.html'):
+    if file == google_verification: continue
     if 'assets' in file.relative_to(root).parts: continue
     text = file.read_text(encoding='utf-8')
     page = Page()

@@ -34,7 +34,7 @@ class Page(HTMLParser):
             self.jsonld.append(self.json_text)
             self.in_json = False
 
-required = ['index.html', 'publications/index.html', 'projects/index.html', 'blog/index.html', 'cv/index.html', 'news/index.html', 'sitemap.xml', 'robots.txt', 'assets/pdf/Jianyu_Fu_CV.pdf']
+required = ['index.html', 'publications/index.html', 'projects/index.html', 'blog/index.html', 'cv/index.html', 'news/index.html', 'sitemap.xml', 'robots.txt', 'BingSiteAuth.xml', 'assets/pdf/Jianyu_Fu_CV.pdf']
 for name in required:
     if not (root / name).is_file(): errors.append(f'Missing required output: {name}')
 for name in ['docs', 'test', 'teaching', 'books', 'repositories', 'assets/json/resume.json']:

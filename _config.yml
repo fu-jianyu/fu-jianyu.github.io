@@ -286,6 +286,10 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
+      path: "google7a7be778f6961da5.html"
+    values:
+      sitemap: false
+  - scope:
       path: "assets"
     values:
       sitemap: false
